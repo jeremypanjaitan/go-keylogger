@@ -12,3 +12,5 @@
 - you need to run the server first
 - open terminal, navigate to server project then run `./server`
 - do the same thing to client
+## Example run
+![img](https://github.com/Alain2020/go-keylogger/blob/main/run-example.gif)
